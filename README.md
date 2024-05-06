@@ -1,14 +1,17 @@
 # Ex-10-IMPLEMENTATION-OF-SIMPLE-CODE-OPTIMIZATION-TECHNIQUES
 IMPLEMENTATION OF SIMPLE CODE OPTIMIZATION TECHNIQUES 
 # Date:
+
 # Aim:
 To write a C program to implement simple code optimization techniques such as Common subexpression elimination and Dead Code elimination.
+
 # ALGORITHM :
 1. Start the program.
 2. The ‘L’values and their corresponding ‘R’ values are given as input.
 3. After common subexpression elimination, the subexpressions that are common are identified and are removed.
 4. After Dead code elimination, the subexpression that is of no use can be identified and is eliminated.
 5. Stop the program.
+
 # PROGRAM
 ```
 #include <stdio.h>
@@ -105,6 +108,7 @@ int main() {
     return 0;
 }
 ```
+
 # OUTPUT
 ![image](https://github.com/SanjithaBolisetti/Ex-10-IMPLEMENTATION-OF-SIMPLE-CODE-OPTIMIZATION-TECHNIQUES/assets/119393633/97c26dd2-8762-4c98-ab40-f00848130e8a)
 
